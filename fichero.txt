@@ -1,0 +1,2 @@
+Fichero de prueba para ramas.
+Haremos cambios conflictivos más adelante
